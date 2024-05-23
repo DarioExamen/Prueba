@@ -6,6 +6,8 @@ public class clase1 {
 		// TODO Auto-generated method stub
 		
 		//comentario 1
+		//comentario 2
+		
 
 	}
 
